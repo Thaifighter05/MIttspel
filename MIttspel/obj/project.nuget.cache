@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DLl6n7VSLtmUyOuoVb5Cuw02GfRDGImmXILyyd7t7qJYW0efzX5Gfng22aDSJD03TUwL5AeO76EyNC/XKrN6JA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maximilian.persson3\\Downloads\\Programmering\\MIttspel\\MIttspel\\MIttspel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maximilian.persson3\\.nuget\\packages\\raylib-cs\\4.2.0.1\\raylib-cs.4.2.0.1.nupkg.sha512",
+    "C:\\Users\\maximilian.persson3\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
